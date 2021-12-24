@@ -17,4 +17,11 @@ publish_iteration_name = 'PASTE_YOUR_CUSTOM_VISION_Iteration_NAME'  #e.g. 'Itera
 image_filename = "PASTE_LOCATION_OF_FILE"
 image_save_localisation = "PASTE_YOUR_FINAL_LOCATION"
 ```
-### Results
+
+
+### Results 
+First image is from quick test from customVision.ai website. Next two are from app.
+
+<img src="https://github.com/Falien164/azure_detection/blob/main/images/quick_test_1.png" width="400" height="400">
+<img src="https://github.com/Falien164/azure_detection/blob/main/images/output.png" width="400" height="400">
+<img src="https://github.com/Falien164/azure_detection/blob/main/images/output2.png" width="400" height="400">
