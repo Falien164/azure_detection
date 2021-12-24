@@ -2,10 +2,11 @@
 Kidney glomeruli detection on Azure Cloud
 
 ### Requirements
+```
 azure-cognitiveservices-vision-customvision
 PIL
 Numpy
-
+```
 ### How to use
 Detector.py is endpoint application and firstly it's necessary to publish trained model on page customVision.ai. Next step is to set key and other variables in detector.py like:
 ```
